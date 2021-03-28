@@ -27,8 +27,7 @@ Following are the main frameworks/libraries used in the project.
 + Others
 
 ## Build/Run
-Launch command-line program, then:
-	Navigate to the root folder of the project, run:
+Launch command-line program, then navigate to the root folder of the project, run:
 	1. `mvn clean compile` // The command compiles all back-end code. Folders generated in this command will be used by the next commands
 	2. `npm run-script watch` // This helps compile ALL of the JavaScript/Fron-end code and generate to a single file: target/classes/static/built/bundle.js
 	3. `mvn package -Dmaven.test.skip=true` // Packaging the whole generated compile code to an executable jar file
