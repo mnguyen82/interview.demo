@@ -1,4 +1,4 @@
-# MARTA Real-time Train Arrivals - Code Demo for Job Application at Cox Auto. 
+# MARTA Real-time Train Arrivals. 
 A simple single-page application that shows real-time train arrivals for all MARTA train stations:
 
 ## Features
